@@ -1,2 +1,2 @@
-# firmware_oem_samsung_f926b_5g_q2q-main
+# firmware_oem_samsung_Fold3_5g_q2q-main
  

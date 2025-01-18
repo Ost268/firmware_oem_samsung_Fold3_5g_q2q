@@ -1,0 +1,12 @@
+{
+    "Image_Build_IDs": {
+        "common": "Lahaina.LA.2.0.c3-00017-STD.PROD-1.18183.71", 
+        "modem": "MPSS.HI.4.3.3.c3-00050-LC_ALL_PACK-1.7516.231.18183.128"
+    }, 
+    "Metabuild_Info": {
+        "Meta_Build_ID": "Lahaina.LA.2.0.c3-00017-STD.PROD-1.18183.71", 
+        "Product_Flavor": "asic", 
+        "Time_Stamp": "2024-01-24 09:45:52"
+    }, 
+    "Version": "1.0"
+}

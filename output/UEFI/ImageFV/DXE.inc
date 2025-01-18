@@ -1,0 +1,288 @@
+
+FILE FREEFORM = 3E5584ED-05D4-4267-9048-0D47F76F4248 {
+    SECTION UI = "download.jpg"
+    SECTION RAW = RawFiles/download.jpg
+}
+
+
+FILE FREEFORM = 4753E815-DDD8-402D-BF69-9B8C4EB7573E {
+    SECTION UI = "download_error.jpg"
+    SECTION RAW = RawFiles/download_error.jpg
+}
+
+
+FILE FREEFORM = 03DED53E-BECD-428F-9F79-5ABA64C58445 {
+    SECTION UI = "warning.jpg"
+    SECTION RAW = RawFiles/warning.jpg
+}
+
+
+FILE FREEFORM = 8B86CD38-C772-4FCF-85AA-345B2B3C1AB4 {
+    SECTION UI = "device_lock.jpg"
+    SECTION RAW = RawFiles/device_lock.jpg
+}
+
+
+FILE FREEFORM = 3FD97907-93F1-4349-AF3C-3B68B0A5E626 {
+    SECTION UI = "device_unlock.jpg"
+    SECTION RAW = RawFiles/device_unlock.jpg
+}
+
+
+FILE FREEFORM = E2EA5A4F-98BD-4203-AB49-399505DDFB7D {
+    SECTION UI = "secure_error.jpg"
+    SECTION RAW = RawFiles/secure_error.jpg
+}
+
+
+FILE FREEFORM = C72FB1A9-5527-4E13-BAC4-F671D0330145 {
+    SECTION UI = "warning_svb.jpg"
+    SECTION RAW = RawFiles/warning_svb.jpg
+}
+
+
+FILE FREEFORM = 8A172122-1588-45C0-B8FC-F81B9CB143ED {
+    SECTION UI = "orange_state.jpg"
+    SECTION RAW = RawFiles/orange_state.jpg
+}
+
+
+FILE FREEFORM = 98350B48-6E70-48F3-B71E-3063465D9688 {
+    SECTION UI = "orange_state_CHN.jpg"
+    SECTION RAW = RawFiles/orange_state_CHN.jpg
+}
+
+
+FILE FREEFORM = C1D146B2-785D-42B6-B8CF-AA8D60B49613 {
+    SECTION UI = "orange_state_KOR.jpg"
+    SECTION RAW = RawFiles/orange_state_KOR.jpg
+}
+
+
+FILE FREEFORM = 8675156C-3BD5-4FBA-AD60-05769D69CDD9 {
+    SECTION UI = "custom_logo.jpg"
+    SECTION RAW = RawFiles/custom_logo.jpg
+}
+
+
+FILE FREEFORM = 87309593-4293-49EE-81FE-2CE3662B3872 {
+    SECTION UI = "custom_logo_CHN.jpg"
+    SECTION RAW = RawFiles/custom_logo_CHN.jpg
+}
+
+
+FILE FREEFORM = 5BB8DFAF-8AE7-49FF-B4B3-DB973E0C166E {
+    SECTION UI = "custom_logo_KOR.jpg"
+    SECTION RAW = RawFiles/custom_logo_KOR.jpg
+}
+
+
+FILE FREEFORM = A7D4E32E-0BE2-478F-AC09-7ADBF3A93A48 {
+    SECTION UI = "SUD_0.jpg"
+    SECTION RAW = RawFiles/SUD_0.jpg
+}
+
+
+FILE FREEFORM = 024351B9-EB38-4878-857A-DE1EB03CFE4A {
+    SECTION UI = "SUD_1.jpg"
+    SECTION RAW = RawFiles/SUD_1.jpg
+}
+
+
+FILE FREEFORM = 9671A2E0-4924-4731-81D7-54B52B101700 {
+    SECTION UI = "SUD_2.jpg"
+    SECTION RAW = RawFiles/SUD_2.jpg
+}
+
+
+FILE FREEFORM = 2813C753-16D7-4E5B-84EE-42349ECCFE1F {
+    SECTION UI = "SUD_3.jpg"
+    SECTION RAW = RawFiles/SUD_3.jpg
+}
+
+
+FILE FREEFORM = B643EBEF-3CDC-4FC6-83C5-93AE3F456ED1 {
+    SECTION UI = "SUD_4.jpg"
+    SECTION RAW = RawFiles/SUD_4.jpg
+}
+
+
+FILE FREEFORM = C515CC78-8ED2-4BDD-9121-D0E43CD5CE86 {
+    SECTION UI = "SUD_5.jpg"
+    SECTION RAW = RawFiles/SUD_5.jpg
+}
+
+
+FILE FREEFORM = 23082BE1-8D0F-4105-9159-5B3A23FD74C6 {
+    SECTION UI = "SUD_6.jpg"
+    SECTION RAW = RawFiles/SUD_6.jpg
+}
+
+
+FILE FREEFORM = 7B6E3240-CF24-4422-A11A-52FD46E81410 {
+    SECTION UI = "SUD_7.jpg"
+    SECTION RAW = RawFiles/SUD_7.jpg
+}
+
+
+FILE FREEFORM = CBD40278-35AE-4660-B8E8-349133A5A7E7 {
+    SECTION UI = "SUD_8.jpg"
+    SECTION RAW = RawFiles/SUD_8.jpg
+}
+
+
+FILE FREEFORM = AE3C2B84-B490-49C2-B9C2-8D0DFCB298E1 {
+    SECTION UI = "SUD_9.jpg"
+    SECTION RAW = RawFiles/SUD_9.jpg
+}
+
+
+FILE FREEFORM = E27D6FB0-F4F4-4449-9913-7E040F97ECDA {
+    SECTION UI = "SUD_10.jpg"
+    SECTION RAW = RawFiles/SUD_10.jpg
+}
+
+
+FILE FREEFORM = E9BA79AD-2D57-494D-8517-3A974A33B63A {
+    SECTION UI = "download_sub.jpg"
+    SECTION RAW = RawFiles/download_sub.jpg
+}
+
+
+FILE FREEFORM = 5F65CCEA-A7FE-407F-B3EC-35BD56FBD59D {
+    SECTION UI = "download_error_sub.jpg"
+    SECTION RAW = RawFiles/download_error_sub.jpg
+}
+
+
+FILE FREEFORM = EE371BA4-CA8F-4C5D-833B-EA560128E8A0 {
+    SECTION UI = "warning_sub.jpg"
+    SECTION RAW = RawFiles/warning_sub.jpg
+}
+
+
+FILE FREEFORM = 668ED074-36C1-4523-921C-8994785AE76E {
+    SECTION UI = "device_lock_sub.jpg"
+    SECTION RAW = RawFiles/device_lock_sub.jpg
+}
+
+
+FILE FREEFORM = 8CA09D5C-E248-4F73-A73D-7D1E67884154 {
+    SECTION UI = "device_unlock_sub.jpg"
+    SECTION RAW = RawFiles/device_unlock_sub.jpg
+}
+
+
+FILE FREEFORM = 827AEF38-E019-4F27-8FE4-21D2511E93FF {
+    SECTION UI = "secure_error_sub.jpg"
+    SECTION RAW = RawFiles/secure_error_sub.jpg
+}
+
+
+FILE FREEFORM = 83D4CF95-2E1F-4793-931E-3CD891B0DE97 {
+    SECTION UI = "warning_svb_sub.jpg"
+    SECTION RAW = RawFiles/warning_svb_sub.jpg
+}
+
+
+FILE FREEFORM = 6BF711CA-6669-487B-B843-5EE3FA212D32 {
+    SECTION UI = "orange_state_sub.jpg"
+    SECTION RAW = RawFiles/orange_state_sub.jpg
+}
+
+
+FILE FREEFORM = 10DBCFFB-FE23-4D07-9FD0-4D6603D80B64 {
+    SECTION UI = "orange_state_sub_CHN.jpg"
+    SECTION RAW = RawFiles/orange_state_sub_CHN.jpg
+}
+
+
+FILE FREEFORM = 51498BC5-0765-4AED-8C32-0591944E546E {
+    SECTION UI = "orange_state_sub_KOR.jpg"
+    SECTION RAW = RawFiles/orange_state_sub_KOR.jpg
+}
+
+
+FILE FREEFORM = 58C5AD21-3FE1-4F46-A3A4-846DB0064A0F {
+    SECTION UI = "custom_logo_sub.jpg"
+    SECTION RAW = RawFiles/custom_logo_sub.jpg
+}
+
+
+FILE FREEFORM = 1CCD7B3C-2AFE-4061-8395-D457E8DBB420 {
+    SECTION UI = "custom_logo_sub_CHN.jpg"
+    SECTION RAW = RawFiles/custom_logo_sub_CHN.jpg
+}
+
+
+FILE FREEFORM = 856D40FD-9D3A-4B2D-99F1-40A5646410CB {
+    SECTION UI = "custom_logo_sub_KOR.jpg"
+    SECTION RAW = RawFiles/custom_logo_sub_KOR.jpg
+}
+
+
+FILE FREEFORM = A575D631-F67E-455D-8432-30A25D21DD9D {
+    SECTION UI = "SUD_0_sub.jpg"
+    SECTION RAW = RawFiles/SUD_0_sub.jpg
+}
+
+
+FILE FREEFORM = F7159CFB-1F08-4A0C-8C1C-30AE60C97CF0 {
+    SECTION UI = "SUD_1_sub.jpg"
+    SECTION RAW = RawFiles/SUD_1_sub.jpg
+}
+
+
+FILE FREEFORM = 12BA101C-377A-4358-8BF0-613206C36815 {
+    SECTION UI = "SUD_2_sub.jpg"
+    SECTION RAW = RawFiles/SUD_2_sub.jpg
+}
+
+
+FILE FREEFORM = 914448C6-6FB6-484F-92C1-2C8360BD7875 {
+    SECTION UI = "SUD_3_sub.jpg"
+    SECTION RAW = RawFiles/SUD_3_sub.jpg
+}
+
+
+FILE FREEFORM = ED4430C8-C127-43CD-B23D-357A928A4469 {
+    SECTION UI = "SUD_4_sub.jpg"
+    SECTION RAW = RawFiles/SUD_4_sub.jpg
+}
+
+
+FILE FREEFORM = 226928EF-89F2-4AE1-92DC-51B5F5A6DF91 {
+    SECTION UI = "SUD_5_sub.jpg"
+    SECTION RAW = RawFiles/SUD_5_sub.jpg
+}
+
+
+FILE FREEFORM = 05BB639E-E092-4931-8E1A-E40F1A8FE5C3 {
+    SECTION UI = "SUD_6_sub.jpg"
+    SECTION RAW = RawFiles/SUD_6_sub.jpg
+}
+
+
+FILE FREEFORM = 2E861C52-18FC-4E7A-A1BE-5A0970E08F18 {
+    SECTION UI = "SUD_7_sub.jpg"
+    SECTION RAW = RawFiles/SUD_7_sub.jpg
+}
+
+
+FILE FREEFORM = 1787F445-EA85-4FB6-9A83-E99C0BD6FA3B {
+    SECTION UI = "SUD_8_sub.jpg"
+    SECTION RAW = RawFiles/SUD_8_sub.jpg
+}
+
+
+FILE FREEFORM = 8242B2C4-4889-4AD1-87E8-D1ADEF704017 {
+    SECTION UI = "SUD_9_sub.jpg"
+    SECTION RAW = RawFiles/SUD_9_sub.jpg
+}
+
+
+FILE FREEFORM = 6D4258F6-A513-4074-AA81-04945F7F0CF8 {
+    SECTION UI = "SUD_10_sub.jpg"
+    SECTION RAW = RawFiles/SUD_10_sub.jpg
+}
+

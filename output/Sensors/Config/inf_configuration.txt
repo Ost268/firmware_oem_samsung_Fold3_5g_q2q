@@ -1,0 +1,653 @@
+sns_tilt_to_wake.json = 13
+sns_tilt_sw_enabled.json = 13
+sns_tilt_sw_disabled.json = 13
+sns_tilt.json = 13
+sns_smd.json = 13
+sns_rotv.json = 13
+sns_rmd.json = 13
+sns_reg_config = 13
+sns_pedometer.json = 13
+sns_multishake.json = 13
+sns_mag_cal_legacy.json = 13
+sns_mag_cal.json = 13
+sns_hw_revision.json = 13
+sns_gyro_cal.json = 13
+sns_geomag_rv.json = 13
+sns_fmv_legacy.json = 13
+sns_fmv.json = 13
+sns_flip_state.json = 13
+sns_facing.json = 13
+sns_dpc.json = 13
+sns_distance_bound.json = 13
+sns_direct_channel.json = 13
+sns_diag_filter.json = 13
+sns_device_orient.json = 13
+sns_dae.json = 13
+sns_cm.json = 13
+sns_bring_to_ear.json = 13
+sns_basic_gestures.json = 13
+sns_amd_sw_enabled.json = 13
+sns_amd_sw_disabled.json = 13
+sns_amd.json = 13
+lsm6dso_1.json = 13
+lsm6dso_0.json = 13
+lahaina_tcs3407_0.json = 13
+lahaina_stk3a9x_0.json = 13
+lahaina_spl07_0.json = 13
+lahaina_power_0.json = 13
+lahaina_lsm6dso_1_1.json = 13
+lahaina_lsm6dso_1_0.json = 13
+lahaina_lsm6dso_0_0.json = 13
+lahaina_lps22hh_5.json = 13
+lahaina_lps22hh_0.json = 13
+lahaina_lidangle_0.json = 13
+lahaina_irq.json = 13
+lahaina_hdk_tmd2725_0.json = 13
+lahaina_hdk_sx932x_0.json = 13
+lahaina_hdk_lsm6dst_1.json = 13
+lahaina_hdk_lsm6dst_0.json = 13
+lahaina_hdk_ak991x_0.json = 13
+lahaina_default_sensors.json = 13
+lahaina_ak997x_3.json = 13
+lahaina_ak997x_1.json = 13
+lahaina_ak997x_0.json = 13
+lahaina_ak991x_6.json = 13
+lahaina_ak991x_5.json = 13
+lahaina_ak991x_1.json = 13
+lahaina_ak991x_0.json = 13
+kodiak_qrd_ak991x_1.json = 13
+kodiak_qrd_ak991x_0.json = 13
+faroe_vertigo_lsm6dst_1.json = 13
+faroe_vertigo_lsm6dst_0.json = 13
+faroe_vertigo_ak991x_0.json = 13
+faroe_tmd3702_0.json = 13
+faroe_sx932x_0.json = 13
+faroe_qrd_tmd3702_0.json = 13
+faroe_qrd_sx932x_0.json = 13
+faroe_qrd_lsm6dst_0.json = 13
+faroe_qrd_ak991x_0.json = 13
+faroe_power_0.json = 13
+faroe_lsm6dst_1.json = 13
+faroe_lsm6dst_0.json = 13
+faroe_lps22hh_0.json = 13
+faroe_irq.json = 13
+faroe_idp_lsm6dst_1.json = 13
+faroe_idp_lsm6dst_0.json = 13
+faroe_idp_ak991x_0.json = 13
+faroe_dynamic_sensors.json = 13
+faroe_default_sensors.json = 13
+faroe_bu52053nvx_0.json = 13
+faroe_ak991x_0.json = 13
+
+-------------------------------
+
+sns_tilt_to_wake.json = 1,
+sns_tilt_sw_enabled.json = 1,
+sns_tilt_sw_disabled.json = 1,
+sns_tilt.json = 1,
+sns_smd.json = 1,
+sns_rotv.json = 1,
+sns_rmd.json = 1,
+sns_reg_config = 1,
+sns_pedometer.json = 1,
+sns_multishake.json = 1,
+sns_mag_cal_legacy.json = 1,
+sns_mag_cal.json = 1,
+sns_hw_revision.json = 1,
+sns_gyro_cal.json = 1,
+sns_geomag_rv.json = 1,
+sns_fmv_legacy.json = 1,
+sns_fmv.json = 1,
+sns_flip_state.json = 1,
+sns_facing.json = 1,
+sns_dpc.json = 1,
+sns_distance_bound.json = 1,
+sns_direct_channel.json = 1,
+sns_diag_filter.json = 1,
+sns_device_orient.json = 1,
+sns_dae.json = 1,
+sns_cm.json = 1,
+sns_bring_to_ear.json = 1,
+sns_basic_gestures.json = 1,
+sns_amd_sw_enabled.json = 1,
+sns_amd_sw_disabled.json = 1,
+sns_amd.json = 1,
+lsm6dso_1.json = 1,
+lsm6dso_0.json = 1,
+lahaina_tcs3407_0.json = 1,
+lahaina_stk3a9x_0.json = 1,
+lahaina_spl07_0.json = 1,
+lahaina_power_0.json = 1,
+lahaina_lsm6dso_1_1.json = 1,
+lahaina_lsm6dso_1_0.json = 1,
+lahaina_lsm6dso_0_0.json = 1,
+lahaina_lps22hh_5.json = 1,
+lahaina_lps22hh_0.json = 1,
+lahaina_lidangle_0.json = 1,
+lahaina_irq.json = 1,
+lahaina_hdk_tmd2725_0.json = 1,
+lahaina_hdk_sx932x_0.json = 1,
+lahaina_hdk_lsm6dst_1.json = 1,
+lahaina_hdk_lsm6dst_0.json = 1,
+lahaina_hdk_ak991x_0.json = 1,
+lahaina_default_sensors.json = 1,
+lahaina_ak997x_3.json = 1,
+lahaina_ak997x_1.json = 1,
+lahaina_ak997x_0.json = 1,
+lahaina_ak991x_6.json = 1,
+lahaina_ak991x_5.json = 1,
+lahaina_ak991x_1.json = 1,
+lahaina_ak991x_0.json = 1,
+kodiak_qrd_ak991x_1.json = 1,
+kodiak_qrd_ak991x_0.json = 1,
+faroe_vertigo_lsm6dst_1.json = 1,
+faroe_vertigo_lsm6dst_0.json = 1,
+faroe_vertigo_ak991x_0.json = 1,
+faroe_tmd3702_0.json = 1,
+faroe_sx932x_0.json = 1,
+faroe_qrd_tmd3702_0.json = 1,
+faroe_qrd_sx932x_0.json = 1,
+faroe_qrd_lsm6dst_0.json = 1,
+faroe_qrd_ak991x_0.json = 1,
+faroe_power_0.json = 1,
+faroe_lsm6dst_1.json = 1,
+faroe_lsm6dst_0.json = 1,
+faroe_lps22hh_0.json = 1,
+faroe_irq.json = 1,
+faroe_idp_lsm6dst_1.json = 1,
+faroe_idp_lsm6dst_0.json = 1,
+faroe_idp_ak991x_0.json = 1,
+faroe_dynamic_sensors.json = 1,
+faroe_default_sensors.json = 1,
+faroe_bu52053nvx_0.json = 1,
+faroe_ak991x_0.json = 1,
+
+-------------------------------
+
+CopyFiles=sns_tilt_to_wake.json,sns_tilt_sw_enabled.json,sns_tilt_sw_disabled.json,sns_tilt.json,sns_smd.json,sns_rotv.json,sns_rmd.json,sns_reg_config,sns_pedometer.json,sns_multishake.json,sns_mag_cal_legacy.json,sns_mag_cal.json,sns_hw_revision.json,sns_gyro_cal.json,sns_geomag_rv.json,sns_fmv_legacy.json,sns_fmv.json,sns_flip_state.json,sns_facing.json,sns_dpc.json,sns_distance_bound.json,sns_direct_channel.json,sns_diag_filter.json,sns_device_orient.json,sns_dae.json,sns_cm.json,sns_bring_to_ear.json,sns_basic_gestures.json,sns_amd_sw_enabled.json,sns_amd_sw_disabled.json,sns_amd.json,lsm6dso_1.json,lsm6dso_0.json,lahaina_tcs3407_0.json,lahaina_stk3a9x_0.json,lahaina_spl07_0.json,lahaina_power_0.json,lahaina_lsm6dso_1_1.json,lahaina_lsm6dso_1_0.json,lahaina_lsm6dso_0_0.json,lahaina_lps22hh_5.json,lahaina_lps22hh_0.json,lahaina_lidangle_0.json,lahaina_irq.json,lahaina_hdk_tmd2725_0.json,lahaina_hdk_sx932x_0.json,lahaina_hdk_lsm6dst_1.json,lahaina_hdk_lsm6dst_0.json,lahaina_hdk_ak991x_0.json,lahaina_default_sensors.json,lahaina_ak997x_3.json,lahaina_ak997x_1.json,lahaina_ak997x_0.json,lahaina_ak991x_6.json,lahaina_ak991x_5.json,lahaina_ak991x_1.json,lahaina_ak991x_0.json,kodiak_qrd_ak991x_1.json,kodiak_qrd_ak991x_0.json,faroe_vertigo_lsm6dst_1.json,faroe_vertigo_lsm6dst_0.json,faroe_vertigo_ak991x_0.json,faroe_tmd3702_0.json,faroe_sx932x_0.json,faroe_qrd_tmd3702_0.json,faroe_qrd_sx932x_0.json,faroe_qrd_lsm6dst_0.json,faroe_qrd_ak991x_0.json,faroe_power_0.json,faroe_lsm6dst_1.json,faroe_lsm6dst_0.json,faroe_lps22hh_0.json,faroe_irq.json,faroe_idp_lsm6dst_1.json,faroe_idp_lsm6dst_0.json,faroe_idp_ak991x_0.json,faroe_dynamic_sensors.json,faroe_default_sensors.json,faroe_bu52053nvx_0.json,faroe_ak991x_0.json
+
+-------------------------------
+
+[sns_tilt_to_wake.json]
+sns_tilt_to_wake.json
+[sns_tilt_sw_enabled.json]
+sns_tilt_sw_enabled.json
+[sns_tilt_sw_disabled.json]
+sns_tilt_sw_disabled.json
+[sns_tilt.json]
+sns_tilt.json
+[sns_smd.json]
+sns_smd.json
+[sns_rotv.json]
+sns_rotv.json
+[sns_rmd.json]
+sns_rmd.json
+[sns_reg_config]
+sns_reg_config
+[sns_pedometer.json]
+sns_pedometer.json
+[sns_multishake.json]
+sns_multishake.json
+[sns_mag_cal_legacy.json]
+sns_mag_cal_legacy.json
+[sns_mag_cal.json]
+sns_mag_cal.json
+[sns_hw_revision.json]
+sns_hw_revision.json
+[sns_gyro_cal.json]
+sns_gyro_cal.json
+[sns_geomag_rv.json]
+sns_geomag_rv.json
+[sns_fmv_legacy.json]
+sns_fmv_legacy.json
+[sns_fmv.json]
+sns_fmv.json
+[sns_flip_state.json]
+sns_flip_state.json
+[sns_facing.json]
+sns_facing.json
+[sns_dpc.json]
+sns_dpc.json
+[sns_distance_bound.json]
+sns_distance_bound.json
+[sns_direct_channel.json]
+sns_direct_channel.json
+[sns_diag_filter.json]
+sns_diag_filter.json
+[sns_device_orient.json]
+sns_device_orient.json
+[sns_dae.json]
+sns_dae.json
+[sns_cm.json]
+sns_cm.json
+[sns_bring_to_ear.json]
+sns_bring_to_ear.json
+[sns_basic_gestures.json]
+sns_basic_gestures.json
+[sns_amd_sw_enabled.json]
+sns_amd_sw_enabled.json
+[sns_amd_sw_disabled.json]
+sns_amd_sw_disabled.json
+[sns_amd.json]
+sns_amd.json
+[lsm6dso_1.json]
+lsm6dso_1.json
+[lsm6dso_0.json]
+lsm6dso_0.json
+[lahaina_tcs3407_0.json]
+lahaina_tcs3407_0.json
+[lahaina_stk3a9x_0.json]
+lahaina_stk3a9x_0.json
+[lahaina_spl07_0.json]
+lahaina_spl07_0.json
+[lahaina_power_0.json]
+lahaina_power_0.json
+[lahaina_lsm6dso_1_1.json]
+lahaina_lsm6dso_1_1.json
+[lahaina_lsm6dso_1_0.json]
+lahaina_lsm6dso_1_0.json
+[lahaina_lsm6dso_0_0.json]
+lahaina_lsm6dso_0_0.json
+[lahaina_lps22hh_5.json]
+lahaina_lps22hh_5.json
+[lahaina_lps22hh_0.json]
+lahaina_lps22hh_0.json
+[lahaina_lidangle_0.json]
+lahaina_lidangle_0.json
+[lahaina_irq.json]
+lahaina_irq.json
+[lahaina_hdk_tmd2725_0.json]
+lahaina_hdk_tmd2725_0.json
+[lahaina_hdk_sx932x_0.json]
+lahaina_hdk_sx932x_0.json
+[lahaina_hdk_lsm6dst_1.json]
+lahaina_hdk_lsm6dst_1.json
+[lahaina_hdk_lsm6dst_0.json]
+lahaina_hdk_lsm6dst_0.json
+[lahaina_hdk_ak991x_0.json]
+lahaina_hdk_ak991x_0.json
+[lahaina_default_sensors.json]
+lahaina_default_sensors.json
+[lahaina_ak997x_3.json]
+lahaina_ak997x_3.json
+[lahaina_ak997x_1.json]
+lahaina_ak997x_1.json
+[lahaina_ak997x_0.json]
+lahaina_ak997x_0.json
+[lahaina_ak991x_6.json]
+lahaina_ak991x_6.json
+[lahaina_ak991x_5.json]
+lahaina_ak991x_5.json
+[lahaina_ak991x_1.json]
+lahaina_ak991x_1.json
+[lahaina_ak991x_0.json]
+lahaina_ak991x_0.json
+[kodiak_qrd_ak991x_1.json]
+kodiak_qrd_ak991x_1.json
+[kodiak_qrd_ak991x_0.json]
+kodiak_qrd_ak991x_0.json
+[faroe_vertigo_lsm6dst_1.json]
+faroe_vertigo_lsm6dst_1.json
+[faroe_vertigo_lsm6dst_0.json]
+faroe_vertigo_lsm6dst_0.json
+[faroe_vertigo_ak991x_0.json]
+faroe_vertigo_ak991x_0.json
+[faroe_tmd3702_0.json]
+faroe_tmd3702_0.json
+[faroe_sx932x_0.json]
+faroe_sx932x_0.json
+[faroe_qrd_tmd3702_0.json]
+faroe_qrd_tmd3702_0.json
+[faroe_qrd_sx932x_0.json]
+faroe_qrd_sx932x_0.json
+[faroe_qrd_lsm6dst_0.json]
+faroe_qrd_lsm6dst_0.json
+[faroe_qrd_ak991x_0.json]
+faroe_qrd_ak991x_0.json
+[faroe_power_0.json]
+faroe_power_0.json
+[faroe_lsm6dst_1.json]
+faroe_lsm6dst_1.json
+[faroe_lsm6dst_0.json]
+faroe_lsm6dst_0.json
+[faroe_lps22hh_0.json]
+faroe_lps22hh_0.json
+[faroe_irq.json]
+faroe_irq.json
+[faroe_idp_lsm6dst_1.json]
+faroe_idp_lsm6dst_1.json
+[faroe_idp_lsm6dst_0.json]
+faroe_idp_lsm6dst_0.json
+[faroe_idp_ak991x_0.json]
+faroe_idp_ak991x_0.json
+[faroe_dynamic_sensors.json]
+faroe_dynamic_sensors.json
+[faroe_default_sensors.json]
+faroe_default_sensors.json
+[faroe_bu52053nvx_0.json]
+faroe_bu52053nvx_0.json
+[faroe_ak991x_0.json]
+faroe_ak991x_0.json
+
+-------------------------------
+
+; Updating registry of faroe_ak991x_0.json to remote path \vendor\etc\sensors\config\faroe_ak991x_0.json
+HKR,Mappings\FASTRPC\Default\74f2ae3de42988ca0edb10b3bc13ba2673d81e4ceea6ab5b6364a068b38507bc,"Local",%REG_SZ%, %13%\faroe_ak991x_0.json
+hkr,mappings\fastrpc\default\74f2ae3de42988ca0edb10b3bc13ba2673d81e4ceea6ab5b6364a068b38507bc,"remote",%reg_sz%, \vendor\etc\sensors\config\faroe_ak991x_0.json
+
+; Updating registry of faroe_bu52053nvx_0.json to remote path \vendor\etc\sensors\config\faroe_bu52053nvx_0.json
+HKR,Mappings\FASTRPC\Default\727b4bcdf8500b86960ebceda15981a4cb6f56bc90c83c10cfba0eaae4a8ef18,"Local",%REG_SZ%, %13%\faroe_bu52053nvx_0.json
+hkr,mappings\fastrpc\default\727b4bcdf8500b86960ebceda15981a4cb6f56bc90c83c10cfba0eaae4a8ef18,"remote",%reg_sz%, \vendor\etc\sensors\config\faroe_bu52053nvx_0.json
+
+; Updating registry of faroe_default_sensors.json to remote path \vendor\etc\sensors\config\faroe_default_sensors.json
+HKR,Mappings\FASTRPC\Default\8bb6c96d469e8c875a9f5b66d62dcbcb07ef31378aedb59ee6edf70560e7c2cd,"Local",%REG_SZ%, %13%\faroe_default_sensors.json
+hkr,mappings\fastrpc\default\8bb6c96d469e8c875a9f5b66d62dcbcb07ef31378aedb59ee6edf70560e7c2cd,"remote",%reg_sz%, \vendor\etc\sensors\config\faroe_default_sensors.json
+
+; Updating registry of faroe_dynamic_sensors.json to remote path \vendor\etc\sensors\config\faroe_dynamic_sensors.json
+HKR,Mappings\FASTRPC\Default\7b975f1eea48665fe4aa554edece0b63814e069a0f02da349a27fc994c23be1c,"Local",%REG_SZ%, %13%\faroe_dynamic_sensors.json
+hkr,mappings\fastrpc\default\7b975f1eea48665fe4aa554edece0b63814e069a0f02da349a27fc994c23be1c,"remote",%reg_sz%, \vendor\etc\sensors\config\faroe_dynamic_sensors.json
+
+; Updating registry of faroe_idp_ak991x_0.json to remote path \vendor\etc\sensors\config\faroe_idp_ak991x_0.json
+HKR,Mappings\FASTRPC\Default\769de8433d14841d9de45261f23cafbc07ac7e8e21ebc1d4fa02a77650b9770f,"Local",%REG_SZ%, %13%\faroe_idp_ak991x_0.json
+hkr,mappings\fastrpc\default\769de8433d14841d9de45261f23cafbc07ac7e8e21ebc1d4fa02a77650b9770f,"remote",%reg_sz%, \vendor\etc\sensors\config\faroe_idp_ak991x_0.json
+
+; Updating registry of faroe_idp_lsm6dst_0.json to remote path \vendor\etc\sensors\config\faroe_idp_lsm6dst_0.json
+HKR,Mappings\FASTRPC\Default\3e53dd8af944021399d6d6eaf5634f6b4d8d30475105ebf4082ab651b64b092a,"Local",%REG_SZ%, %13%\faroe_idp_lsm6dst_0.json
+hkr,mappings\fastrpc\default\3e53dd8af944021399d6d6eaf5634f6b4d8d30475105ebf4082ab651b64b092a,"remote",%reg_sz%, \vendor\etc\sensors\config\faroe_idp_lsm6dst_0.json
+
+; Updating registry of faroe_idp_lsm6dst_1.json to remote path \vendor\etc\sensors\config\faroe_idp_lsm6dst_1.json
+HKR,Mappings\FASTRPC\Default\8e4dda6c4e99e196bdf45124415457432d122c00c7191cd5be4a67656f5e646b,"Local",%REG_SZ%, %13%\faroe_idp_lsm6dst_1.json
+hkr,mappings\fastrpc\default\8e4dda6c4e99e196bdf45124415457432d122c00c7191cd5be4a67656f5e646b,"remote",%reg_sz%, \vendor\etc\sensors\config\faroe_idp_lsm6dst_1.json
+
+; Updating registry of faroe_irq.json to remote path \vendor\etc\sensors\config\faroe_irq.json
+HKR,Mappings\FASTRPC\Default\3c6b62f187d8c2ff9beff3cd975892c389a55ec162c73d176fcbc7c012440586,"Local",%REG_SZ%, %13%\faroe_irq.json
+hkr,mappings\fastrpc\default\3c6b62f187d8c2ff9beff3cd975892c389a55ec162c73d176fcbc7c012440586,"remote",%reg_sz%, \vendor\etc\sensors\config\faroe_irq.json
+
+; Updating registry of faroe_lps22hh_0.json to remote path \vendor\etc\sensors\config\faroe_lps22hh_0.json
+HKR,Mappings\FASTRPC\Default\7f6d8cde7d771f0782d00674ad822b579005dadb67e8a1c7c6006dcec7bac278,"Local",%REG_SZ%, %13%\faroe_lps22hh_0.json
+hkr,mappings\fastrpc\default\7f6d8cde7d771f0782d00674ad822b579005dadb67e8a1c7c6006dcec7bac278,"remote",%reg_sz%, \vendor\etc\sensors\config\faroe_lps22hh_0.json
+
+; Updating registry of faroe_lsm6dst_0.json to remote path \vendor\etc\sensors\config\faroe_lsm6dst_0.json
+HKR,Mappings\FASTRPC\Default\cd7aa2a3e8e28138d794083b1c6516ba0d5c9022685cb03d2f0a40c53675d731,"Local",%REG_SZ%, %13%\faroe_lsm6dst_0.json
+hkr,mappings\fastrpc\default\cd7aa2a3e8e28138d794083b1c6516ba0d5c9022685cb03d2f0a40c53675d731,"remote",%reg_sz%, \vendor\etc\sensors\config\faroe_lsm6dst_0.json
+
+; Updating registry of faroe_lsm6dst_1.json to remote path \vendor\etc\sensors\config\faroe_lsm6dst_1.json
+HKR,Mappings\FASTRPC\Default\db7f00240427e0f6fb3510bef29842609a5a91bc2c7c64172f6f47d1bb401568,"Local",%REG_SZ%, %13%\faroe_lsm6dst_1.json
+hkr,mappings\fastrpc\default\db7f00240427e0f6fb3510bef29842609a5a91bc2c7c64172f6f47d1bb401568,"remote",%reg_sz%, \vendor\etc\sensors\config\faroe_lsm6dst_1.json
+
+; Updating registry of faroe_power_0.json to remote path \vendor\etc\sensors\config\faroe_power_0.json
+HKR,Mappings\FASTRPC\Default\c307157d04b46dc4fd4dd0d5372136a0dc5294c8b44e0a4114df9dd048b133af,"Local",%REG_SZ%, %13%\faroe_power_0.json
+hkr,mappings\fastrpc\default\c307157d04b46dc4fd4dd0d5372136a0dc5294c8b44e0a4114df9dd048b133af,"remote",%reg_sz%, \vendor\etc\sensors\config\faroe_power_0.json
+
+; Updating registry of faroe_qrd_ak991x_0.json to remote path \vendor\etc\sensors\config\faroe_qrd_ak991x_0.json
+HKR,Mappings\FASTRPC\Default\315bf47f8752d13d730e1662c89509ebc9da90ce6c537926f368c57b26ebf81a,"Local",%REG_SZ%, %13%\faroe_qrd_ak991x_0.json
+hkr,mappings\fastrpc\default\315bf47f8752d13d730e1662c89509ebc9da90ce6c537926f368c57b26ebf81a,"remote",%reg_sz%, \vendor\etc\sensors\config\faroe_qrd_ak991x_0.json
+
+; Updating registry of faroe_qrd_lsm6dst_0.json to remote path \vendor\etc\sensors\config\faroe_qrd_lsm6dst_0.json
+HKR,Mappings\FASTRPC\Default\dd190568097fac86ed9580cd3f6bd4cf7da52c9999d23f62e2e5ce335a771015,"Local",%REG_SZ%, %13%\faroe_qrd_lsm6dst_0.json
+hkr,mappings\fastrpc\default\dd190568097fac86ed9580cd3f6bd4cf7da52c9999d23f62e2e5ce335a771015,"remote",%reg_sz%, \vendor\etc\sensors\config\faroe_qrd_lsm6dst_0.json
+
+; Updating registry of faroe_qrd_sx932x_0.json to remote path \vendor\etc\sensors\config\faroe_qrd_sx932x_0.json
+HKR,Mappings\FASTRPC\Default\f568b72e1b708718c380edd16938d089a80768a4cd5ff63d791753f8ace20d1b,"Local",%REG_SZ%, %13%\faroe_qrd_sx932x_0.json
+hkr,mappings\fastrpc\default\f568b72e1b708718c380edd16938d089a80768a4cd5ff63d791753f8ace20d1b,"remote",%reg_sz%, \vendor\etc\sensors\config\faroe_qrd_sx932x_0.json
+
+; Updating registry of faroe_qrd_tmd3702_0.json to remote path \vendor\etc\sensors\config\faroe_qrd_tmd3702_0.json
+HKR,Mappings\FASTRPC\Default\49aea138db92062bf915357eb5f0b2b2044bb7d45cc331ad17519064cab89650,"Local",%REG_SZ%, %13%\faroe_qrd_tmd3702_0.json
+hkr,mappings\fastrpc\default\49aea138db92062bf915357eb5f0b2b2044bb7d45cc331ad17519064cab89650,"remote",%reg_sz%, \vendor\etc\sensors\config\faroe_qrd_tmd3702_0.json
+
+; Updating registry of faroe_sx932x_0.json to remote path \vendor\etc\sensors\config\faroe_sx932x_0.json
+HKR,Mappings\FASTRPC\Default\fa855fd875969d4d245a538847708697f62b992647ab1f50703b69d5dd7aba55,"Local",%REG_SZ%, %13%\faroe_sx932x_0.json
+hkr,mappings\fastrpc\default\fa855fd875969d4d245a538847708697f62b992647ab1f50703b69d5dd7aba55,"remote",%reg_sz%, \vendor\etc\sensors\config\faroe_sx932x_0.json
+
+; Updating registry of faroe_tmd3702_0.json to remote path \vendor\etc\sensors\config\faroe_tmd3702_0.json
+HKR,Mappings\FASTRPC\Default\98253c5e966cf9c59329e90a28843a124f3ec5accd07ae1f9e52c2b8549049ab,"Local",%REG_SZ%, %13%\faroe_tmd3702_0.json
+hkr,mappings\fastrpc\default\98253c5e966cf9c59329e90a28843a124f3ec5accd07ae1f9e52c2b8549049ab,"remote",%reg_sz%, \vendor\etc\sensors\config\faroe_tmd3702_0.json
+
+; Updating registry of faroe_vertigo_ak991x_0.json to remote path \vendor\etc\sensors\config\faroe_vertigo_ak991x_0.json
+HKR,Mappings\FASTRPC\Default\176e2ffd178dc67552332e3076178bac1952ee0b60dbc0c990b1570292ed968b,"Local",%REG_SZ%, %13%\faroe_vertigo_ak991x_0.json
+hkr,mappings\fastrpc\default\176e2ffd178dc67552332e3076178bac1952ee0b60dbc0c990b1570292ed968b,"remote",%reg_sz%, \vendor\etc\sensors\config\faroe_vertigo_ak991x_0.json
+
+; Updating registry of faroe_vertigo_lsm6dst_0.json to remote path \vendor\etc\sensors\config\faroe_vertigo_lsm6dst_0.json
+HKR,Mappings\FASTRPC\Default\f64dee91c0a9c999491df368c09ad609149725186e78ecc66608a05ecc87e922,"Local",%REG_SZ%, %13%\faroe_vertigo_lsm6dst_0.json
+hkr,mappings\fastrpc\default\f64dee91c0a9c999491df368c09ad609149725186e78ecc66608a05ecc87e922,"remote",%reg_sz%, \vendor\etc\sensors\config\faroe_vertigo_lsm6dst_0.json
+
+; Updating registry of faroe_vertigo_lsm6dst_1.json to remote path \vendor\etc\sensors\config\faroe_vertigo_lsm6dst_1.json
+HKR,Mappings\FASTRPC\Default\6fee3ab2f98c36a53d9b6a5e4cf0fbdd90a26562bdd3d226528dc0bb16c1fc67,"Local",%REG_SZ%, %13%\faroe_vertigo_lsm6dst_1.json
+hkr,mappings\fastrpc\default\6fee3ab2f98c36a53d9b6a5e4cf0fbdd90a26562bdd3d226528dc0bb16c1fc67,"remote",%reg_sz%, \vendor\etc\sensors\config\faroe_vertigo_lsm6dst_1.json
+
+; Updating registry of kodiak_qrd_ak991x_0.json to remote path \vendor\etc\sensors\config\kodiak_qrd_ak991x_0.json
+HKR,Mappings\FASTRPC\Default\a22dc72bbdf55924bf28736ab89e2335b9558ade56d9fa4efc292ef618f62c9c,"Local",%REG_SZ%, %13%\kodiak_qrd_ak991x_0.json
+hkr,mappings\fastrpc\default\a22dc72bbdf55924bf28736ab89e2335b9558ade56d9fa4efc292ef618f62c9c,"remote",%reg_sz%, \vendor\etc\sensors\config\kodiak_qrd_ak991x_0.json
+
+; Updating registry of kodiak_qrd_ak991x_1.json to remote path \vendor\etc\sensors\config\kodiak_qrd_ak991x_1.json
+HKR,Mappings\FASTRPC\Default\d814605f5582d65d39edba583df5a2e76543e271a0a6d70f073672add6499a31,"Local",%REG_SZ%, %13%\kodiak_qrd_ak991x_1.json
+hkr,mappings\fastrpc\default\d814605f5582d65d39edba583df5a2e76543e271a0a6d70f073672add6499a31,"remote",%reg_sz%, \vendor\etc\sensors\config\kodiak_qrd_ak991x_1.json
+
+; Updating registry of lahaina_ak991x_0.json to remote path \vendor\etc\sensors\config\lahaina_ak991x_0.json
+HKR,Mappings\FASTRPC\Default\226f151edf7bbeb8636e83f508d3fe2eb1e04a9e71067dac18f0507c9b27111f,"Local",%REG_SZ%, %13%\lahaina_ak991x_0.json
+hkr,mappings\fastrpc\default\226f151edf7bbeb8636e83f508d3fe2eb1e04a9e71067dac18f0507c9b27111f,"remote",%reg_sz%, \vendor\etc\sensors\config\lahaina_ak991x_0.json
+
+; Updating registry of lahaina_ak991x_1.json to remote path \vendor\etc\sensors\config\lahaina_ak991x_1.json
+HKR,Mappings\FASTRPC\Default\e05e1defcfd6f1824dc4ab275dee4ad0ce8bb91955ea763a6bfdee7a9fb95e71,"Local",%REG_SZ%, %13%\lahaina_ak991x_1.json
+hkr,mappings\fastrpc\default\e05e1defcfd6f1824dc4ab275dee4ad0ce8bb91955ea763a6bfdee7a9fb95e71,"remote",%reg_sz%, \vendor\etc\sensors\config\lahaina_ak991x_1.json
+
+; Updating registry of lahaina_ak991x_5.json to remote path \vendor\etc\sensors\config\lahaina_ak991x_5.json
+HKR,Mappings\FASTRPC\Default\57e5f84ad8628b773cf38710dc2292986484b9ce23db87c66124a53bfa6a081d,"Local",%REG_SZ%, %13%\lahaina_ak991x_5.json
+hkr,mappings\fastrpc\default\57e5f84ad8628b773cf38710dc2292986484b9ce23db87c66124a53bfa6a081d,"remote",%reg_sz%, \vendor\etc\sensors\config\lahaina_ak991x_5.json
+
+; Updating registry of lahaina_ak991x_6.json to remote path \vendor\etc\sensors\config\lahaina_ak991x_6.json
+HKR,Mappings\FASTRPC\Default\21ba29dd45ffb4d57b5320303fd372b2659e42b9cdac8dfa43f2c1bd8f371a10,"Local",%REG_SZ%, %13%\lahaina_ak991x_6.json
+hkr,mappings\fastrpc\default\21ba29dd45ffb4d57b5320303fd372b2659e42b9cdac8dfa43f2c1bd8f371a10,"remote",%reg_sz%, \vendor\etc\sensors\config\lahaina_ak991x_6.json
+
+; Updating registry of lahaina_ak997x_0.json to remote path \vendor\etc\sensors\config\lahaina_ak997x_0.json
+HKR,Mappings\FASTRPC\Default\13cd53e612ca32b0f8d6e8beb585372c282bfad9e1fc989c81b46ccb2b9bac8a,"Local",%REG_SZ%, %13%\lahaina_ak997x_0.json
+hkr,mappings\fastrpc\default\13cd53e612ca32b0f8d6e8beb585372c282bfad9e1fc989c81b46ccb2b9bac8a,"remote",%reg_sz%, \vendor\etc\sensors\config\lahaina_ak997x_0.json
+
+; Updating registry of lahaina_ak997x_1.json to remote path \vendor\etc\sensors\config\lahaina_ak997x_1.json
+HKR,Mappings\FASTRPC\Default\7796aac4359b70970af926b81bdede5dcf1ce19d59ad7b5c1435d9883880ef24,"Local",%REG_SZ%, %13%\lahaina_ak997x_1.json
+hkr,mappings\fastrpc\default\7796aac4359b70970af926b81bdede5dcf1ce19d59ad7b5c1435d9883880ef24,"remote",%reg_sz%, \vendor\etc\sensors\config\lahaina_ak997x_1.json
+
+; Updating registry of lahaina_ak997x_3.json to remote path \vendor\etc\sensors\config\lahaina_ak997x_3.json
+HKR,Mappings\FASTRPC\Default\4cddec96fd7338a985423fd06aed7afa19ef937085e421c907efd5b160a77186,"Local",%REG_SZ%, %13%\lahaina_ak997x_3.json
+hkr,mappings\fastrpc\default\4cddec96fd7338a985423fd06aed7afa19ef937085e421c907efd5b160a77186,"remote",%reg_sz%, \vendor\etc\sensors\config\lahaina_ak997x_3.json
+
+; Updating registry of lahaina_default_sensors.json to remote path \vendor\etc\sensors\config\lahaina_default_sensors.json
+HKR,Mappings\FASTRPC\Default\5c82b6b550b5b85c71435d781a6081e6471b1be5369c67223df768fccd4947f3,"Local",%REG_SZ%, %13%\lahaina_default_sensors.json
+hkr,mappings\fastrpc\default\5c82b6b550b5b85c71435d781a6081e6471b1be5369c67223df768fccd4947f3,"remote",%reg_sz%, \vendor\etc\sensors\config\lahaina_default_sensors.json
+
+; Updating registry of lahaina_hdk_ak991x_0.json to remote path \vendor\etc\sensors\config\lahaina_hdk_ak991x_0.json
+HKR,Mappings\FASTRPC\Default\e3848682774938f12598725f92d759daa3c19e9c554737f986db011366bab762,"Local",%REG_SZ%, %13%\lahaina_hdk_ak991x_0.json
+hkr,mappings\fastrpc\default\e3848682774938f12598725f92d759daa3c19e9c554737f986db011366bab762,"remote",%reg_sz%, \vendor\etc\sensors\config\lahaina_hdk_ak991x_0.json
+
+; Updating registry of lahaina_hdk_lsm6dst_0.json to remote path \vendor\etc\sensors\config\lahaina_hdk_lsm6dst_0.json
+HKR,Mappings\FASTRPC\Default\fc21372b9d8b118587811ac609de93237db8b687d191061ea4374bf39f5cb2ea,"Local",%REG_SZ%, %13%\lahaina_hdk_lsm6dst_0.json
+hkr,mappings\fastrpc\default\fc21372b9d8b118587811ac609de93237db8b687d191061ea4374bf39f5cb2ea,"remote",%reg_sz%, \vendor\etc\sensors\config\lahaina_hdk_lsm6dst_0.json
+
+; Updating registry of lahaina_hdk_lsm6dst_1.json to remote path \vendor\etc\sensors\config\lahaina_hdk_lsm6dst_1.json
+HKR,Mappings\FASTRPC\Default\adcab78358ca2f40350fde7740ac26e74b374e028c57cb8133dabdc267292b97,"Local",%REG_SZ%, %13%\lahaina_hdk_lsm6dst_1.json
+hkr,mappings\fastrpc\default\adcab78358ca2f40350fde7740ac26e74b374e028c57cb8133dabdc267292b97,"remote",%reg_sz%, \vendor\etc\sensors\config\lahaina_hdk_lsm6dst_1.json
+
+; Updating registry of lahaina_hdk_sx932x_0.json to remote path \vendor\etc\sensors\config\lahaina_hdk_sx932x_0.json
+HKR,Mappings\FASTRPC\Default\8c426c2de453148406afc637ed1a6ba1a1260939461a4e19db1b2716cd945930,"Local",%REG_SZ%, %13%\lahaina_hdk_sx932x_0.json
+hkr,mappings\fastrpc\default\8c426c2de453148406afc637ed1a6ba1a1260939461a4e19db1b2716cd945930,"remote",%reg_sz%, \vendor\etc\sensors\config\lahaina_hdk_sx932x_0.json
+
+; Updating registry of lahaina_hdk_tmd2725_0.json to remote path \vendor\etc\sensors\config\lahaina_hdk_tmd2725_0.json
+HKR,Mappings\FASTRPC\Default\8e055c31a96b41988ef04e379efeae76b4e3b0bc1a300e2ff526a036a6011093,"Local",%REG_SZ%, %13%\lahaina_hdk_tmd2725_0.json
+hkr,mappings\fastrpc\default\8e055c31a96b41988ef04e379efeae76b4e3b0bc1a300e2ff526a036a6011093,"remote",%reg_sz%, \vendor\etc\sensors\config\lahaina_hdk_tmd2725_0.json
+
+; Updating registry of lahaina_irq.json to remote path \vendor\etc\sensors\config\lahaina_irq.json
+HKR,Mappings\FASTRPC\Default\e31e5f235b0806ccc9bcabf961b61e51ae9ff179c2912c4615daf1e1bc72ae36,"Local",%REG_SZ%, %13%\lahaina_irq.json
+hkr,mappings\fastrpc\default\e31e5f235b0806ccc9bcabf961b61e51ae9ff179c2912c4615daf1e1bc72ae36,"remote",%reg_sz%, \vendor\etc\sensors\config\lahaina_irq.json
+
+; Updating registry of lahaina_lidangle_0.json to remote path \vendor\etc\sensors\config\lahaina_lidangle_0.json
+HKR,Mappings\FASTRPC\Default\45b9758d854c441712e250b679b034474abed9a80f3e6b3317e05a457d8efcdf,"Local",%REG_SZ%, %13%\lahaina_lidangle_0.json
+hkr,mappings\fastrpc\default\45b9758d854c441712e250b679b034474abed9a80f3e6b3317e05a457d8efcdf,"remote",%reg_sz%, \vendor\etc\sensors\config\lahaina_lidangle_0.json
+
+; Updating registry of lahaina_lps22hh_0.json to remote path \vendor\etc\sensors\config\lahaina_lps22hh_0.json
+HKR,Mappings\FASTRPC\Default\f310cf065258f42ecbf8531c678f05e2657f40d12626f69bc9b41efec4b1c823,"Local",%REG_SZ%, %13%\lahaina_lps22hh_0.json
+hkr,mappings\fastrpc\default\f310cf065258f42ecbf8531c678f05e2657f40d12626f69bc9b41efec4b1c823,"remote",%reg_sz%, \vendor\etc\sensors\config\lahaina_lps22hh_0.json
+
+; Updating registry of lahaina_lps22hh_5.json to remote path \vendor\etc\sensors\config\lahaina_lps22hh_5.json
+HKR,Mappings\FASTRPC\Default\1855a9194b2a66f3049ffae1314064f37ffa5cc13043da2450360e8a8bef7620,"Local",%REG_SZ%, %13%\lahaina_lps22hh_5.json
+hkr,mappings\fastrpc\default\1855a9194b2a66f3049ffae1314064f37ffa5cc13043da2450360e8a8bef7620,"remote",%reg_sz%, \vendor\etc\sensors\config\lahaina_lps22hh_5.json
+
+; Updating registry of lahaina_lsm6dso_0_0.json to remote path \vendor\etc\sensors\config\lahaina_lsm6dso_0_0.json
+HKR,Mappings\FASTRPC\Default\9f8a800f9ae1d777422881dc184f21ec364a19940388619e20d9801cc8db58cd,"Local",%REG_SZ%, %13%\lahaina_lsm6dso_0_0.json
+hkr,mappings\fastrpc\default\9f8a800f9ae1d777422881dc184f21ec364a19940388619e20d9801cc8db58cd,"remote",%reg_sz%, \vendor\etc\sensors\config\lahaina_lsm6dso_0_0.json
+
+; Updating registry of lahaina_lsm6dso_1_0.json to remote path \vendor\etc\sensors\config\lahaina_lsm6dso_1_0.json
+HKR,Mappings\FASTRPC\Default\98e1057b4b460d91cbc3a48f320612fb367e9cf0d5932a70f0ed375df2cbff44,"Local",%REG_SZ%, %13%\lahaina_lsm6dso_1_0.json
+hkr,mappings\fastrpc\default\98e1057b4b460d91cbc3a48f320612fb367e9cf0d5932a70f0ed375df2cbff44,"remote",%reg_sz%, \vendor\etc\sensors\config\lahaina_lsm6dso_1_0.json
+
+; Updating registry of lahaina_lsm6dso_1_1.json to remote path \vendor\etc\sensors\config\lahaina_lsm6dso_1_1.json
+HKR,Mappings\FASTRPC\Default\864e245a415713bea0655fc87f9e4a7ca1d8d7c0c7a77a4d8b1b3596ef0208d5,"Local",%REG_SZ%, %13%\lahaina_lsm6dso_1_1.json
+hkr,mappings\fastrpc\default\864e245a415713bea0655fc87f9e4a7ca1d8d7c0c7a77a4d8b1b3596ef0208d5,"remote",%reg_sz%, \vendor\etc\sensors\config\lahaina_lsm6dso_1_1.json
+
+; Updating registry of lahaina_power_0.json to remote path \vendor\etc\sensors\config\lahaina_power_0.json
+HKR,Mappings\FASTRPC\Default\cdf43a09d3f5c6122fd1875c1cb3a3a32b418fdd5b713b14b181eaf88cb49724,"Local",%REG_SZ%, %13%\lahaina_power_0.json
+hkr,mappings\fastrpc\default\cdf43a09d3f5c6122fd1875c1cb3a3a32b418fdd5b713b14b181eaf88cb49724,"remote",%reg_sz%, \vendor\etc\sensors\config\lahaina_power_0.json
+
+; Updating registry of lahaina_spl07_0.json to remote path \vendor\etc\sensors\config\lahaina_spl07_0.json
+HKR,Mappings\FASTRPC\Default\94176334d316e8f68a9167f8e88820cf0b9ac59b6f0addb0df19b99b8494d15f,"Local",%REG_SZ%, %13%\lahaina_spl07_0.json
+hkr,mappings\fastrpc\default\94176334d316e8f68a9167f8e88820cf0b9ac59b6f0addb0df19b99b8494d15f,"remote",%reg_sz%, \vendor\etc\sensors\config\lahaina_spl07_0.json
+
+; Updating registry of lahaina_stk3a9x_0.json to remote path \vendor\etc\sensors\config\lahaina_stk3a9x_0.json
+HKR,Mappings\FASTRPC\Default\2fa1c19e278e930e4600e350933bd739543d2d69f67cc241549490504b1bf3b1,"Local",%REG_SZ%, %13%\lahaina_stk3a9x_0.json
+hkr,mappings\fastrpc\default\2fa1c19e278e930e4600e350933bd739543d2d69f67cc241549490504b1bf3b1,"remote",%reg_sz%, \vendor\etc\sensors\config\lahaina_stk3a9x_0.json
+
+; Updating registry of lahaina_tcs3407_0.json to remote path \vendor\etc\sensors\config\lahaina_tcs3407_0.json
+HKR,Mappings\FASTRPC\Default\486505e9d94c934ed74bb35b597690df9fd0cc6ea00642dbd813053a2321244a,"Local",%REG_SZ%, %13%\lahaina_tcs3407_0.json
+hkr,mappings\fastrpc\default\486505e9d94c934ed74bb35b597690df9fd0cc6ea00642dbd813053a2321244a,"remote",%reg_sz%, \vendor\etc\sensors\config\lahaina_tcs3407_0.json
+
+; Updating registry of lsm6dso_0.json to remote path \vendor\etc\sensors\config\lsm6dso_0.json
+HKR,Mappings\FASTRPC\Default\8af59fb8810b2a92fcb06c6feb92309438cdc1a553e16bd56303ac8bf0a22996,"Local",%REG_SZ%, %13%\lsm6dso_0.json
+hkr,mappings\fastrpc\default\8af59fb8810b2a92fcb06c6feb92309438cdc1a553e16bd56303ac8bf0a22996,"remote",%reg_sz%, \vendor\etc\sensors\config\lsm6dso_0.json
+
+; Updating registry of lsm6dso_1.json to remote path \vendor\etc\sensors\config\lsm6dso_1.json
+HKR,Mappings\FASTRPC\Default\a6653c8c94bc20d554190c650e7ebdd990c6c41eec6241d029ed5dc9e0fba9c6,"Local",%REG_SZ%, %13%\lsm6dso_1.json
+hkr,mappings\fastrpc\default\a6653c8c94bc20d554190c650e7ebdd990c6c41eec6241d029ed5dc9e0fba9c6,"remote",%reg_sz%, \vendor\etc\sensors\config\lsm6dso_1.json
+
+; Updating registry of sns_amd.json to remote path \vendor\etc\sensors\config\sns_amd.json
+HKR,Mappings\FASTRPC\Default\faab18abdfbcf08f24617fbd70e8ecb341dec5ba2f9fed8fc98b1f6d96dd381f,"Local",%REG_SZ%, %13%\sns_amd.json
+hkr,mappings\fastrpc\default\faab18abdfbcf08f24617fbd70e8ecb341dec5ba2f9fed8fc98b1f6d96dd381f,"remote",%reg_sz%, \vendor\etc\sensors\config\sns_amd.json
+
+; Updating registry of sns_amd_sw_disabled.json to remote path \vendor\etc\sensors\config\sns_amd_sw_disabled.json
+HKR,Mappings\FASTRPC\Default\47b8acbc15a5be0ea919ff188b4be9fc6b552641ccc96b55099f9a4789754cae,"Local",%REG_SZ%, %13%\sns_amd_sw_disabled.json
+hkr,mappings\fastrpc\default\47b8acbc15a5be0ea919ff188b4be9fc6b552641ccc96b55099f9a4789754cae,"remote",%reg_sz%, \vendor\etc\sensors\config\sns_amd_sw_disabled.json
+
+; Updating registry of sns_amd_sw_enabled.json to remote path \vendor\etc\sensors\config\sns_amd_sw_enabled.json
+HKR,Mappings\FASTRPC\Default\5c83e49989eb5a6a6a63d299fa67b29490f8268a7c1e40e6d6769971e0f6bb94,"Local",%REG_SZ%, %13%\sns_amd_sw_enabled.json
+hkr,mappings\fastrpc\default\5c83e49989eb5a6a6a63d299fa67b29490f8268a7c1e40e6d6769971e0f6bb94,"remote",%reg_sz%, \vendor\etc\sensors\config\sns_amd_sw_enabled.json
+
+; Updating registry of sns_basic_gestures.json to remote path \vendor\etc\sensors\config\sns_basic_gestures.json
+HKR,Mappings\FASTRPC\Default\95ab7cf5089ca49d2bf951f27e2922fdca16a16877f5851b513799ac2119a129,"Local",%REG_SZ%, %13%\sns_basic_gestures.json
+hkr,mappings\fastrpc\default\95ab7cf5089ca49d2bf951f27e2922fdca16a16877f5851b513799ac2119a129,"remote",%reg_sz%, \vendor\etc\sensors\config\sns_basic_gestures.json
+
+; Updating registry of sns_bring_to_ear.json to remote path \vendor\etc\sensors\config\sns_bring_to_ear.json
+HKR,Mappings\FASTRPC\Default\6837f720e55398d08edffc8694e56d914c9c718c3c8e2754537ec08f8d6f5907,"Local",%REG_SZ%, %13%\sns_bring_to_ear.json
+hkr,mappings\fastrpc\default\6837f720e55398d08edffc8694e56d914c9c718c3c8e2754537ec08f8d6f5907,"remote",%reg_sz%, \vendor\etc\sensors\config\sns_bring_to_ear.json
+
+; Updating registry of sns_cm.json to remote path \vendor\etc\sensors\config\sns_cm.json
+HKR,Mappings\FASTRPC\Default\e90b1c5330b8e25ce7398dc377f060e5280a582dbe26fc36cce5dce97a1c4929,"Local",%REG_SZ%, %13%\sns_cm.json
+hkr,mappings\fastrpc\default\e90b1c5330b8e25ce7398dc377f060e5280a582dbe26fc36cce5dce97a1c4929,"remote",%reg_sz%, \vendor\etc\sensors\config\sns_cm.json
+
+; Updating registry of sns_dae.json to remote path \vendor\etc\sensors\config\sns_dae.json
+HKR,Mappings\FASTRPC\Default\aee6d93352d8f6dd71843d8737e86213a095514fe88605b66ee72264e35c5491,"Local",%REG_SZ%, %13%\sns_dae.json
+hkr,mappings\fastrpc\default\aee6d93352d8f6dd71843d8737e86213a095514fe88605b66ee72264e35c5491,"remote",%reg_sz%, \vendor\etc\sensors\config\sns_dae.json
+
+; Updating registry of sns_device_orient.json to remote path \vendor\etc\sensors\config\sns_device_orient.json
+HKR,Mappings\FASTRPC\Default\a31b0d556a661a3492dafc13d3281e2d004ac27b67532276d43345f0450d3ba6,"Local",%REG_SZ%, %13%\sns_device_orient.json
+hkr,mappings\fastrpc\default\a31b0d556a661a3492dafc13d3281e2d004ac27b67532276d43345f0450d3ba6,"remote",%reg_sz%, \vendor\etc\sensors\config\sns_device_orient.json
+
+; Updating registry of sns_diag_filter.json to remote path \vendor\etc\sensors\config\sns_diag_filter.json
+HKR,Mappings\FASTRPC\Default\c00402dc2a6a13969a21e20ed8d8b3cea699fa5557cbe68c1e02be0150e360ce,"Local",%REG_SZ%, %13%\sns_diag_filter.json
+hkr,mappings\fastrpc\default\c00402dc2a6a13969a21e20ed8d8b3cea699fa5557cbe68c1e02be0150e360ce,"remote",%reg_sz%, \vendor\etc\sensors\config\sns_diag_filter.json
+
+; Updating registry of sns_direct_channel.json to remote path \vendor\etc\sensors\config\sns_direct_channel.json
+HKR,Mappings\FASTRPC\Default\f12e26c26c6b7e59e5bdafd7591f603d69864ddc11361f3a4e07fd68892608d1,"Local",%REG_SZ%, %13%\sns_direct_channel.json
+hkr,mappings\fastrpc\default\f12e26c26c6b7e59e5bdafd7591f603d69864ddc11361f3a4e07fd68892608d1,"remote",%reg_sz%, \vendor\etc\sensors\config\sns_direct_channel.json
+
+; Updating registry of sns_distance_bound.json to remote path \vendor\etc\sensors\config\sns_distance_bound.json
+HKR,Mappings\FASTRPC\Default\cf25716acd786f77edd6cbe570de1227350160acfd7f6ad9a13dab6efbbf44c6,"Local",%REG_SZ%, %13%\sns_distance_bound.json
+hkr,mappings\fastrpc\default\cf25716acd786f77edd6cbe570de1227350160acfd7f6ad9a13dab6efbbf44c6,"remote",%reg_sz%, \vendor\etc\sensors\config\sns_distance_bound.json
+
+; Updating registry of sns_dpc.json to remote path \vendor\etc\sensors\config\sns_dpc.json
+HKR,Mappings\FASTRPC\Default\78380d32f2a16b557e45a823370d0eb753922d8abb4c07105ae8c5ea90a18d2c,"Local",%REG_SZ%, %13%\sns_dpc.json
+hkr,mappings\fastrpc\default\78380d32f2a16b557e45a823370d0eb753922d8abb4c07105ae8c5ea90a18d2c,"remote",%reg_sz%, \vendor\etc\sensors\config\sns_dpc.json
+
+; Updating registry of sns_facing.json to remote path \vendor\etc\sensors\config\sns_facing.json
+HKR,Mappings\FASTRPC\Default\cb926f260f462f3e533d08728c2470d91f9c6cfa5d5eab1fce7144636a957148,"Local",%REG_SZ%, %13%\sns_facing.json
+hkr,mappings\fastrpc\default\cb926f260f462f3e533d08728c2470d91f9c6cfa5d5eab1fce7144636a957148,"remote",%reg_sz%, \vendor\etc\sensors\config\sns_facing.json
+
+; Updating registry of sns_flip_state.json to remote path \vendor\etc\sensors\config\sns_flip_state.json
+HKR,Mappings\FASTRPC\Default\47b154837c187605d4a005ebaeac1e1fdf89651a2d619de3b90885002b2780c0,"Local",%REG_SZ%, %13%\sns_flip_state.json
+hkr,mappings\fastrpc\default\47b154837c187605d4a005ebaeac1e1fdf89651a2d619de3b90885002b2780c0,"remote",%reg_sz%, \vendor\etc\sensors\config\sns_flip_state.json
+
+; Updating registry of sns_fmv.json to remote path \vendor\etc\sensors\config\sns_fmv.json
+HKR,Mappings\FASTRPC\Default\8950e04fd4b978eb46e54b6a3e0b18792ab22efba1a4a9affed3d3ee4717f0e2,"Local",%REG_SZ%, %13%\sns_fmv.json
+hkr,mappings\fastrpc\default\8950e04fd4b978eb46e54b6a3e0b18792ab22efba1a4a9affed3d3ee4717f0e2,"remote",%reg_sz%, \vendor\etc\sensors\config\sns_fmv.json
+
+; Updating registry of sns_fmv_legacy.json to remote path \vendor\etc\sensors\config\sns_fmv_legacy.json
+HKR,Mappings\FASTRPC\Default\5d2911d1a7bde8c36a3ab801d2c9530feaa4a227c0559fcc555b5828d54a487c,"Local",%REG_SZ%, %13%\sns_fmv_legacy.json
+hkr,mappings\fastrpc\default\5d2911d1a7bde8c36a3ab801d2c9530feaa4a227c0559fcc555b5828d54a487c,"remote",%reg_sz%, \vendor\etc\sensors\config\sns_fmv_legacy.json
+
+; Updating registry of sns_geomag_rv.json to remote path \vendor\etc\sensors\config\sns_geomag_rv.json
+HKR,Mappings\FASTRPC\Default\7db8dd6ee807b2e72cd986bac7e7fc357d6129e4df3a981e00cd3a0ddd6c5d00,"Local",%REG_SZ%, %13%\sns_geomag_rv.json
+hkr,mappings\fastrpc\default\7db8dd6ee807b2e72cd986bac7e7fc357d6129e4df3a981e00cd3a0ddd6c5d00,"remote",%reg_sz%, \vendor\etc\sensors\config\sns_geomag_rv.json
+
+; Updating registry of sns_gyro_cal.json to remote path \vendor\etc\sensors\config\sns_gyro_cal.json
+HKR,Mappings\FASTRPC\Default\20e67434ad11b4126130fd0e55f127b08048d9e5b578c7337bcabc21416bfdcd,"Local",%REG_SZ%, %13%\sns_gyro_cal.json
+hkr,mappings\fastrpc\default\20e67434ad11b4126130fd0e55f127b08048d9e5b578c7337bcabc21416bfdcd,"remote",%reg_sz%, \vendor\etc\sensors\config\sns_gyro_cal.json
+
+; Updating registry of sns_hw_revision.json to remote path \vendor\etc\sensors\config\sns_hw_revision.json
+HKR,Mappings\FASTRPC\Default\438ef3fb6f0dbce10cddffeb184def66c32d5c89587d046c4bcbf2823a796820,"Local",%REG_SZ%, %13%\sns_hw_revision.json
+hkr,mappings\fastrpc\default\438ef3fb6f0dbce10cddffeb184def66c32d5c89587d046c4bcbf2823a796820,"remote",%reg_sz%, \vendor\etc\sensors\config\sns_hw_revision.json
+
+; Updating registry of sns_mag_cal.json to remote path \vendor\etc\sensors\config\sns_mag_cal.json
+HKR,Mappings\FASTRPC\Default\149a82b7b9c4b3e8a3bc0fc5cff177a8f55137d911ed2a3c53a8b92342af14d3,"Local",%REG_SZ%, %13%\sns_mag_cal.json
+hkr,mappings\fastrpc\default\149a82b7b9c4b3e8a3bc0fc5cff177a8f55137d911ed2a3c53a8b92342af14d3,"remote",%reg_sz%, \vendor\etc\sensors\config\sns_mag_cal.json
+
+; Updating registry of sns_mag_cal_legacy.json to remote path \vendor\etc\sensors\config\sns_mag_cal_legacy.json
+HKR,Mappings\FASTRPC\Default\efb41311f9aed32d1e16bb111ccbd004bdc76400c5b717ff597d7e26cae6c651,"Local",%REG_SZ%, %13%\sns_mag_cal_legacy.json
+hkr,mappings\fastrpc\default\efb41311f9aed32d1e16bb111ccbd004bdc76400c5b717ff597d7e26cae6c651,"remote",%reg_sz%, \vendor\etc\sensors\config\sns_mag_cal_legacy.json
+
+; Updating registry of sns_multishake.json to remote path \vendor\etc\sensors\config\sns_multishake.json
+HKR,Mappings\FASTRPC\Default\b6de4a3135c28af2b1cb45e5cf44c2e49e60fa59f5ce67a4436721bdb4ae0bf7,"Local",%REG_SZ%, %13%\sns_multishake.json
+hkr,mappings\fastrpc\default\b6de4a3135c28af2b1cb45e5cf44c2e49e60fa59f5ce67a4436721bdb4ae0bf7,"remote",%reg_sz%, \vendor\etc\sensors\config\sns_multishake.json
+
+; Updating registry of sns_pedometer.json to remote path \vendor\etc\sensors\config\sns_pedometer.json
+HKR,Mappings\FASTRPC\Default\994640118dca5d66f1a559fbbea646a98cd4103fb2e732afaed8e077d75c94b4,"Local",%REG_SZ%, %13%\sns_pedometer.json
+hkr,mappings\fastrpc\default\994640118dca5d66f1a559fbbea646a98cd4103fb2e732afaed8e077d75c94b4,"remote",%reg_sz%, \vendor\etc\sensors\config\sns_pedometer.json
+
+; Updating registry of sns_reg_config to remote path \vendor\etc\sensors\config\sns_reg_config
+HKR,Mappings\FASTRPC\Default\bbf3cae24853c58fb06f03b1ce0bed5e1795d58a59dae3054defa3f7e7b5bb6f,"Local",%REG_SZ%, %13%\sns_reg_config
+hkr,mappings\fastrpc\default\bbf3cae24853c58fb06f03b1ce0bed5e1795d58a59dae3054defa3f7e7b5bb6f,"remote",%reg_sz%, \vendor\etc\sensors\config\sns_reg_config
+
+; Updating registry of sns_rmd.json to remote path \vendor\etc\sensors\config\sns_rmd.json
+HKR,Mappings\FASTRPC\Default\9e0a728851e3dd779d5460ce672b1fab5080025ac52ff7d88c3771413e4ee530,"Local",%REG_SZ%, %13%\sns_rmd.json
+hkr,mappings\fastrpc\default\9e0a728851e3dd779d5460ce672b1fab5080025ac52ff7d88c3771413e4ee530,"remote",%reg_sz%, \vendor\etc\sensors\config\sns_rmd.json
+
+; Updating registry of sns_rotv.json to remote path \vendor\etc\sensors\config\sns_rotv.json
+HKR,Mappings\FASTRPC\Default\264177299ea594df2ddb3baf817f913c60202eee8a24611b69e85189f4f70319,"Local",%REG_SZ%, %13%\sns_rotv.json
+hkr,mappings\fastrpc\default\264177299ea594df2ddb3baf817f913c60202eee8a24611b69e85189f4f70319,"remote",%reg_sz%, \vendor\etc\sensors\config\sns_rotv.json
+
+; Updating registry of sns_smd.json to remote path \vendor\etc\sensors\config\sns_smd.json
+HKR,Mappings\FASTRPC\Default\3740670ab403905844de0063a7159aa46724b493359b91eb143e84d944d1c0a3,"Local",%REG_SZ%, %13%\sns_smd.json
+hkr,mappings\fastrpc\default\3740670ab403905844de0063a7159aa46724b493359b91eb143e84d944d1c0a3,"remote",%reg_sz%, \vendor\etc\sensors\config\sns_smd.json
+
+; Updating registry of sns_tilt.json to remote path \vendor\etc\sensors\config\sns_tilt.json
+HKR,Mappings\FASTRPC\Default\e6a206352c7ec693cc1fdc4ee8b6ed7fb027582c28e3fcda178cdde035ab7480,"Local",%REG_SZ%, %13%\sns_tilt.json
+hkr,mappings\fastrpc\default\e6a206352c7ec693cc1fdc4ee8b6ed7fb027582c28e3fcda178cdde035ab7480,"remote",%reg_sz%, \vendor\etc\sensors\config\sns_tilt.json
+
+; Updating registry of sns_tilt_sw_disabled.json to remote path \vendor\etc\sensors\config\sns_tilt_sw_disabled.json
+HKR,Mappings\FASTRPC\Default\5cdcc0c7f69677a9006508d6468af7f7b3027fd8d8b91a913dce6cec3dd8ae93,"Local",%REG_SZ%, %13%\sns_tilt_sw_disabled.json
+hkr,mappings\fastrpc\default\5cdcc0c7f69677a9006508d6468af7f7b3027fd8d8b91a913dce6cec3dd8ae93,"remote",%reg_sz%, \vendor\etc\sensors\config\sns_tilt_sw_disabled.json
+
+; Updating registry of sns_tilt_sw_enabled.json to remote path \vendor\etc\sensors\config\sns_tilt_sw_enabled.json
+HKR,Mappings\FASTRPC\Default\bd60315fd8c6a886a6b956fffd1f587dae73b70a77b446d0bebb5981258ce621,"Local",%REG_SZ%, %13%\sns_tilt_sw_enabled.json
+hkr,mappings\fastrpc\default\bd60315fd8c6a886a6b956fffd1f587dae73b70a77b446d0bebb5981258ce621,"remote",%reg_sz%, \vendor\etc\sensors\config\sns_tilt_sw_enabled.json
+
+; Updating registry of sns_tilt_to_wake.json to remote path \vendor\etc\sensors\config\sns_tilt_to_wake.json
+HKR,Mappings\FASTRPC\Default\cf98ad20e1b870acc2e3e25977539f042039854e531e9e9eb897883506f38242,"Local",%REG_SZ%, %13%\sns_tilt_to_wake.json
+hkr,mappings\fastrpc\default\cf98ad20e1b870acc2e3e25977539f042039854e531e9e9eb897883506f38242,"remote",%reg_sz%, \vendor\etc\sensors\config\sns_tilt_to_wake.json
+

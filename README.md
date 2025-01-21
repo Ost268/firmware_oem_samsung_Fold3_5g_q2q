@@ -1,2 +1,2 @@
-# firmware_oem_samsung_Fold3_5g_q2q-main
+# firmware_F926BXXS6GXD1_F926BXXS6GXD1_MQB78937008_REV00
  
